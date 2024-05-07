@@ -9,6 +9,11 @@ body {
 
 .container {
   flex: 1;
+  margin-top: 20px; /* Adjust margin as needed */
+}
+
+.nv-color {
+  color: black;
 }
 
 .job {
@@ -32,4 +37,34 @@ body {
 
 .job-links .btn {
   margin-right: 10px;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #f5d86b;
+}
+
+.navbar-nav .nav-item .nav-link {
+  border: 1px solid black;
+  padding: 0.5rem 1rem;
+  margin-right: 10px;
+  border-radius: 5px;
+  background-color: rgb(55, 51, 51);
+  color: white;
+}
+
+/* Footer */
+.footer {
+  background-color: #f5d86b; /* Honey bee color */
+  color: black; /* Text color */
+}
+
+/* Heading */
+.display-5 {
+  color: #333; /* Dark gray color */
+  margin-top: 20px; /* Adjust as needed */
+}
+
+.hive-updates {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
