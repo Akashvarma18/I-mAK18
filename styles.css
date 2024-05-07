@@ -1,0 +1,35 @@
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.container {
+  flex: 1;
+}
+
+.job {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.job h2 {
+  margin-top: 0;
+}
+
+.job p {
+  margin: 0;
+}
+
+.job-links {
+  margin-top: 10px;
+}
+
+.job-links .btn {
+  margin-right: 10px;
+}
