@@ -66,5 +66,8 @@ body {
 }
 
 .hive-updates {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: #665622;
+  margin-bottom: 50px;
+  margin-top: 30px;
 }
