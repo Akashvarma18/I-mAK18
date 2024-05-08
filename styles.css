@@ -57,6 +57,7 @@ body {
 .footer {
   background-color: #f5d86b; /* Honey bee color */
   color: black; /* Text color */
+  margin-top: 30px;
 }
 
 /* Heading */
